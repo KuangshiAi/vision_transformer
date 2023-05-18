@@ -97,13 +97,22 @@ DATASET_PRESETS = {
               'test': 'test',
               'crop': 384})
          }),
-    'imagenet2012': ml_collections.ConfigDict(
-        {'total_steps': 20_000,
+    'tf_flowers': ml_collections.ConfigDict(
+        {'total_steps': 10_000,
          'pp': ml_collections.ConfigDict(
-             {'train': 'train[:99%]',
-              'test': 'validation',
+             {'train': 'train[:80%]',
+              'test': 'train[80%:]',
               'crop': 384})
          }),
+         
+    'imagenet_resized/64x64': ml_collections.ConfigDict(
+        {'total_steps': 20_000,
+         'pp': ml_collections.ConfigDict(
+             {'train': 'train[:8%]',
+              'test': 'validation[:20%]',
+              'crop': 384})
+         })
+    
 }
 
 
