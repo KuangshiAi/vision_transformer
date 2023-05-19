@@ -11,8 +11,12 @@ Email: kuai6409@uni.sydney.edu.au, jihe7032@uni.sydney.edu.au
 
 Assignment 2 Research Track for COMP5329 (USYD 2023), Sydney, Australia
 
+
+
+
+
 Note: Some part of this repository was forked and modified from [google-research/vision_transformer](https://github.com/google-research/vision_transformer).
 
 The following open source Keras projects also give insightful opinion and contribute a lot to our project:
 
-[Image classification with Vision Transformer](https://keras.io/examples/vision/image_classification_with_vision_transformer/)).
+[Image classification with Vision Transformer](https://keras.io/examples/vision/image_classification_with_vision_transformer/), [Distilling Vision Transformers](https://keras.io/examples/vision/deit/), [Train a Vision Transformer on small datasets](https://keras.io/examples/vision/vit_small_ds/), [Investigating Vision Transformer representations](https://keras.io/examples/vision/probing_vits/)
