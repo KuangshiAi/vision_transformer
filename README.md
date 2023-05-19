@@ -6,9 +6,13 @@ Training from scratch test code and result on tf_flower, CIFAR10, CIFAR100 and T
 The implementations are basically made by tensorflow and torch, all jupyter notebook can be run directly on Colab (with support of Colab Pro).
 ## Disclaimers
 Author: Kuangshi Ai, Jiaying He
+
 Email: kuai6409@uni.sydney.edu.au, jihe7032@uni.sydney.edu.au
+
 Assignment 2 Research Track for COMP5329 (USYD 2023), Sydney, Australia
 
-Note: Some part of this repository was forked and modified from open-sourced
-[google-research/vision_transformer](https://github.com/google-research/vision_transformer).
+Note: Some part of this repository was forked and modified from [google-research/vision_transformer](https://github.com/google-research/vision_transformer).
 
+The following open source Keras projects also give insightful opinion and contribute a lot to our project:
+
+[Image classification with Vision Transformer](https://keras.io/examples/vision/image_classification_with_vision_transformer/)).
