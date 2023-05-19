@@ -556,30 +556,5 @@ In reverse chronological order:
 
 ## Disclaimers
 
-Open source release prepared by Andreas Steiner.
-
-Note: This repository was forked and modified from
-[google-research/big_transfer](https://github.com/google-research/big_transfer).
-
-**This is not an official Google product.**
-
-
-[GSAM]: https://arxiv.org/abs/2203.08065
-[SAM]: https://arxiv.org/abs/2010.01412
-[AugReg]: https://arxiv.org/abs/2106.10270
-
-[`vit_jax/configs/models.py`]: https://github.com/google-research/vision_transformer/blob/main/vit_jax/configs/models.py
-[`model_cards/lit.md`]: https://github.com/google-research/vision_transformer/blob/main/model_cards/lit.md
-
-[`configs/augreg.py`]: https://github.com/google-research/vision_transformer/blob/main/vit_jax/configs/augreg.py
-[`configs/model.py`]: https://github.com/google-research/vision_transformer/blob/main/vit_jax/configs/models.py
-[`vit_jax_augreg.ipynb`]: https://colab.research.google.com/github/google-research/vision_transformer/blob/main/vit_jax_augreg.ipynb
-[`vit_jax.ipynb`]: https://colab.research.google.com/github/google-research/vision_transformer/blob/main/vit_jax.ipynb
-
-[`gs://vit_models/imagenet21k`]: https://console.cloud.google.com/storage/browser/vit_models/imagenet21k/
-[`gs://vit_models/imagenet21k+imagenet2012`]: https://console.cloud.google.com/storage/browser/vit_models/imagenet21k+imagenet2012/
-[`gs://vit_models/augreg`]: https://console.cloud.google.com/storage/browser/vit_models/augreg/
-[`gs://vit_models/sam`]: https://console.cloud.google.com/storage/browser/vit_models/sam/
-[`gs://mixer_models/sam`]: https://console.cloud.google.com/storage/mixer_models/sam/
-[`gs://vit_models/gsam`]: https://console.cloud.google.com/storage/browser/vit_models/gsam/
-[`gs://mixer_models/gsam`]: https://console.cloud.google.com/storage/mixer_models/gsam/
+Note: Some part of this repository was forked and modified from open source
+[google-research/vision_transformer](https://github.com/google-research/vision_transformer).
