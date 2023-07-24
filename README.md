@@ -7,7 +7,7 @@ Assignment 2 Research Track for COMP5329 (USYD 2023), Sydney, Australia
 
 This repository gives implementation of our proposed method, and also experimental code of other models for comparison in our paper.
 
-Please refer to ./When Fine-tuning always Beats Training from Scratch Strategies to Adopt in Vison Transformer Training.pdf for our paper
+Please refer to ./When Fine-tuning always Beats Training from Scratch Strategies to Adopt in Vison Transformer Training.pdf
 
 Training from scratch test code and result on tf_flower, CIFAR10, CIFAR100 and Tiny-ImageNet are listed in folders named by model, including original ViT-Ti, SL-ViT, DeiT and our proposed model. Transfering pre-trained ViT models are mainly work done by Google Research, we made some modification for training on our chosen datasets.
 
